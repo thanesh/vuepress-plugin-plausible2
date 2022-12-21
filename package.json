@@ -1,6 +1,7 @@
 {
   "name": "vuepress-plugin-plausible2",
   "description": "VuePress plugin - plausible-analytics",
+  "version": "1.0.0",
   "keywords": [
     "vuepress-plugin",
     "vuepress",
