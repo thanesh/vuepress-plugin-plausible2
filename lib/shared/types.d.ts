@@ -3,7 +3,7 @@
  */
 export interface PlausibleAnalyticsPluginOptions {
     /**
-     * The Measurement ID of Google Analytics 4, which should start with `'G-'`.
+     * The Measurement ID of Plausible Analytics, which should be a site.
      */
     id: string;
     /**

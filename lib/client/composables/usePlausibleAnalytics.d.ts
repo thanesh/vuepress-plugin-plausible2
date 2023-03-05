@@ -4,7 +4,7 @@ declare const gtag: (...args: any[]) => void;
 declare global {
     interface Window {
         dataLayer?: typeof dataLayer;
-        gtag?: typeof gtag;
+        ptag?: typeof ptag;
     }
 }
 /**
